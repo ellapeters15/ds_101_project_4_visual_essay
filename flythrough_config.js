@@ -74,7 +74,7 @@ var config = {
         {
             // CHAPTER 3: JMU Location 1
             id: 'jmu-location-1',
-            title: 'JMU Location 1: [Name Here]',
+            title: 'JMU Location 1: The Quad',
             description: 'Add your description here. Include sentiment analysis findings, post count, and key themes.',
             image: './images/quad.jpg',
             duration: 2000,
@@ -102,7 +102,7 @@ var config = {
         {
             // CHAPTER 4: JMU Location 2
             id: 'jmu-location-2',
-            title: 'JMU Location 2: [Name Here]',
+            title: 'JMU Location 2: D-Hall',
             description: 'Add your description here.',
             image: './images/arboretum.jpg',
             duration: 2000,
@@ -128,7 +128,7 @@ var config = {
         {
             // CHAPTER 5: JMU Location 3
             id: 'jmu-location-3',
-            title: 'JMU Location 3: [Name Here]',
+            title: 'JMU Location 3: Village',
             description: 'Add your description here.',
             image: './images/art_gallery.jpg',
             duration: 2000,
@@ -152,10 +152,10 @@ var config = {
         },
         
         {
-            // CHAPTER 6: UNC Campus Overview
-            id: 'unc-campus',
-            title: 'UNC Campus Overview',
-            description: 'University of North Carolina at Chapel Hill. Three key locations emerge from student discussions.',
+            // CHAPTER 6: ODU Campus Overview
+            id: 'odu-campus',
+            title: 'ODU Campus Overview',
+            description: 'Old Dominion University. Three key locations emerge from student discussions.',
             image: './images/quad.jpg',
             duration: 2500,
             
@@ -169,9 +169,9 @@ var config = {
         },
         
         {
-            // CHAPTER 7: UNC Location 1
-            id: 'unc-location-1',
-            title: 'UNC Location 1: [Name Here]',
+            // CHAPTER 7: ODU Location 1
+            id: 'odu-location-1',
+            title: 'ODU Location 1:Hampton Blvd ',
             description: 'Add your description here.',
             image: './images/d_hall.jpg',
             duration: 2000,
@@ -183,7 +183,7 @@ var config = {
             },
             
             location: {
-                name: 'UNC Location 1',
+                name: 'ODU Location 1',
                 latitude: 35.9050,
                 longitude: -79.0470,
                 postCount: 60,
@@ -195,9 +195,9 @@ var config = {
         },
         
         {
-            // CHAPTER 8: UNC Location 2
-            id: 'unc-location-2',
-            title: 'UNC Location 2: [Name Here]',
+            // CHAPTER 8: ODU Location 2
+            id: 'odu-location-2',
+            title: 'ODU Location 2: Powhatan Apartments ',
             description: 'Add your description here.',
             image: './images/arboretum.jpg',
             duration: 2000,
@@ -209,7 +209,7 @@ var config = {
             },
             
             location: {
-                name: 'UNC Location 2',
+                name: 'ODU Location 2',
                 latitude: 35.9060,
                 longitude: -79.0480,
                 postCount: 85,
@@ -221,9 +221,9 @@ var config = {
         },
         
         {
-            // CHAPTER 9: UNC Location 3
-            id: 'unc-location-3',
-            title: 'UNC Location 3: [Name Here]',
+            // CHAPTER 9: ODU Location 3
+            id: 'odu-location-3',
+            title: 'ODU Location 3: Lamberts Point ',
             description: 'Add your description here.',
             image: './images/art_gallery.jpg',
             duration: 2000,
@@ -235,7 +235,7 @@ var config = {
             },
             
             location: {
-                name: 'UNC Location 3',
+                name: 'ODU Location 3',
                 latitude: 35.9070,
                 longitude: -79.0490,
                 postCount: 95,
