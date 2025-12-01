@@ -38,16 +38,16 @@ var config = {
         {
             // CHAPTER 1: Overview of both locations
             id: 'intro',
-            title: 'Reddit Sentiment Analysis: Two College Towns',
-            description: 'Exploring how students discuss their campuses on Reddit - comparing JMU in Harrisonburg, VA and UNC in Chapel Hill, NC.',
+            title: 'Reddit Sentiment Analysis: Two College Towns based off ODU and JMU',
+            description: 'Exploring how students discuss their campuses on Reddit - comparing JMU in Harrisonburg, VA and ODU in Norfolk, VA.',
             image: './images/quad.jpg',
-            duration: 3000,
+            duration: 2500,
             
             // Camera position (where to fly)
             camera: {
-                latitude: 37.2,             // Midpoint between JMU and UNC
-                longitude: -78.0,
-                zoom: 8                     // Wide view showing both locations
+                latitude: 37.60482264492383,             // Midpoint between ODU and JMU
+                longitude:  -77.58426363061757,
+                zoom: 8                     // Wide view of both locations
             },
             
             showData: 'all_locations'       // Show all locations from both schools
@@ -58,13 +58,13 @@ var config = {
             id: 'jmu-campus',
             title: 'JMU Campus Overview',
             description: 'James Madison University in Harrisonburg, Virginia. Three key locations emerge from student discussions.',
-            image: './images/d_hall.jpg',
+            image: './images/jmuo.png',
             duration: 2500,
             
             // Camera position
             camera: {
-                latitude: 38.4365,
-                longitude: -78.8705,
+                latitude: 38.4351338389363,
+                longitude: -78.86978845363538,
                 zoom: 14
             },
             
@@ -77,12 +77,12 @@ var config = {
             title: 'JMU Location 1: The Quad',
             description: 'Add your description here. Include sentiment analysis findings, post count, and key themes.',
             image: './images/quad.jpg',
-            duration: 2000,
+            duration: 2500,
             
             // Camera position
             camera: {
-                latitude: 38.4347,           // Replace with coordinates from CSV
-                longitude: -78.8690,
+                latitude: 38.43989444662613,           // Replace with coordinates from CSV
+                longitude: -78.874930472760010,
                 zoom: 17
             },
             
@@ -104,12 +104,12 @@ var config = {
             id: 'jmu-location-2',
             title: 'JMU Location 2: D-Hall',
             description: 'Add your description here.',
-            image: './images/arboretum.jpg',
-            duration: 2000,
+            image: './images/d_hall.jpg',
+            duration: 2500,
             
             camera: {
-                latitude: 38.4335,
-                longitude: -78.8715,
+                latitude: 38.437286411214814,
+                longitude: -78.87194619268928,
                 zoom: 17
             },
             
@@ -130,12 +130,12 @@ var config = {
             id: 'jmu-location-3',
             title: 'JMU Location 3: Village',
             description: 'Add your description here.',
-            image: './images/art_gallery.jpg',
-            duration: 2000,
+            image: './images/village.jpg',
+            duration: 2500,
             
             camera: {
-                latitude: 38.4390,
-                longitude: -78.8620,
+                latitude: 38.436007797598776,
+                longitude: -78.86803654082671,
                 zoom: 17
             },
             
@@ -156,12 +156,12 @@ var config = {
             id: 'odu-campus',
             title: 'ODU Campus Overview',
             description: 'Old Dominion University. Three key locations emerge from student discussions.',
-            image: './images/quad.jpg',
+            image: './images/odu quad.jpg',
             duration: 2500,
             
             camera: {
-                latitude: 35.9049,
-                longitude: -79.0469,
+                latitude: 36.885801810785075,
+                longitude: -76.305878658499998,
                 zoom: 14
             },
             
@@ -173,12 +173,12 @@ var config = {
             id: 'odu-location-1',
             title: 'ODU Location 1:Hampton Blvd ',
             description: 'Add your description here.',
-            image: './images/d_hall.jpg',
-            duration: 2000,
+            image: './images/hamptnblvd.jpg',
+            duration: 2500,
             
             camera: {
-                latitude: 35.9050,
-                longitude: -79.0470,
+                latitude: 36.9041808665476,
+                longitude: -76.30439597383146,
                 zoom: 17
             },
             
@@ -199,12 +199,12 @@ var config = {
             id: 'odu-location-2',
             title: 'ODU Location 2: Powhatan Apartments ',
             description: 'Add your description here.',
-            image: './images/arboretum.jpg',
-            duration: 2000,
+            image: './images/powhatan_apartments.jpg',
+            duration: 2500,
             
             camera: {
-                latitude: 35.9060,
-                longitude: -79.0480,
+                latitude: 36.886772905468376,
+                longitude:  -76.31399039262554,
                 zoom: 17
             },
             
@@ -225,12 +225,12 @@ var config = {
             id: 'odu-location-3',
             title: 'ODU Location 3: Lamberts Point ',
             description: 'Add your description here.',
-            image: './images/art_gallery.jpg',
-            duration: 2000,
+            image: './images/lamberts_point.webp',
+            duration: 2500,
             
             camera: {
-                latitude: 35.9070,
-                longitude: -79.0490,
+                latitude: 36.88321035319649,
+                longitude: -76.30810572781452,
                 zoom: 17
             },
             
@@ -251,11 +251,11 @@ var config = {
             title: 'Conclusion: Comparing Campus Sentiment',
             description: 'Our analysis reveals both similarities and differences in how students experience and discuss these two universities.',
             image: './images/quad.jpg',
-            duration: 3000,
+            duration: 2500,
             
             camera: {
-                latitude: 37.2,
-                longitude: -78.0,
+                latitude: 37.60482264492383, 
+                longitude: -77.58426363061757,
                 zoom: 8
             },
             
