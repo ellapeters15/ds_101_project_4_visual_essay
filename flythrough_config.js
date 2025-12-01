@@ -58,7 +58,7 @@ var config = {
             id: 'jmu-campus',
             title: 'JMU Campus Overview',
             description: 'James Madison University in Harrisonburg, Virginia. Three key locations emerge from student discussions.',
-            image: './images/jmuo.png',
+            image: './images/overview_jmu.png',
             duration: 2500,
             
             // Camera position
@@ -76,7 +76,7 @@ var config = {
             id: 'jmu-location-1',
             title: 'JMU Location 1: The Quad',
             description: 'Add your description here. Include sentiment analysis findings, post count, and key themes.',
-            image: './images/quad.jpg',
+            image: './images/jmu_quad.jpg',
             duration: 2500,
             
             // Camera position
@@ -104,7 +104,7 @@ var config = {
             id: 'jmu-location-2',
             title: 'JMU Location 2: D-Hall',
             description: 'Add your description here.',
-            image: './images/d_hall.jpg',
+            image: './images/dhall.jpg',
             duration: 2500,
             
             camera: {
@@ -130,7 +130,7 @@ var config = {
             id: 'jmu-location-3',
             title: 'JMU Location 3: Village',
             description: 'Add your description here.',
-            image: './images/village.jpg',
+            image: './images/Village.jpg',
             duration: 2500,
             
             camera: {
@@ -156,7 +156,7 @@ var config = {
             id: 'odu-campus',
             title: 'ODU Campus Overview',
             description: 'Old Dominion University. Three key locations emerge from student discussions.',
-            image: './images/odu quad.jpg',
+            image: './images/overview_odu.jpg',
             duration: 2500,
             
             camera: {
@@ -173,7 +173,7 @@ var config = {
             id: 'odu-location-1',
             title: 'ODU Location 1:Hampton Blvd ',
             description: 'Add your description here.',
-            image: './images/hamptnblvd.jpg',
+            image: './images/hampton_blvd.jpg',
             duration: 2500,
             
             camera: {
@@ -199,7 +199,7 @@ var config = {
             id: 'odu-location-2',
             title: 'ODU Location 2: Powhatan Apartments ',
             description: 'Add your description here.',
-            image: './images/powhatan_apartments.jpg',
+            image: './images/powhatan_odu.jpg',
             duration: 2500,
             
             camera: {
