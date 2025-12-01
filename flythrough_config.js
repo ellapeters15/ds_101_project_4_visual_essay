@@ -40,7 +40,7 @@ var config = {
             id: 'intro',
             title: 'Reddit Sentiment Analysis: Two College Towns based off ODU and JMU',
             description: 'Exploring how students discuss their campuses on Reddit - comparing JMU in Harrisonburg, VA and ODU in Norfolk, VA.',
-            image: './images/jmu_quad.jpg',
+            image: './images/campus_overview_jmu.jpg',
             duration: 2500,
             
             // Camera position (where to fly)
@@ -225,7 +225,7 @@ var config = {
             id: 'odu-location-3',
             title: 'ODU Location 3: Lamberts Point ',
             description: 'Add your description here.',
-            image: './images/lamberts_point.webp',
+            image: './images/lamberts_point.jpg',
             duration: 2500,
             
             camera: {
@@ -250,7 +250,7 @@ var config = {
             id: 'conclusion',
             title: 'Conclusion: Comparing Campus Sentiment',
             description: 'Our analysis reveals both similarities and differences in how students experience and discuss these two universities.',
-            image: './images/jmu_quad.jpg',
+            image: './images/campus_overview_odu.jpg',
             duration: 2500,
             
             camera: {
