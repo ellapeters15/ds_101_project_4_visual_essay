@@ -130,7 +130,7 @@ var config = {
             id: 'jmu-location-3',
             title: 'JMU Location 3: Village',
             description: 'Add your description here.',
-            image: './images/Village.jpg',
+            image: './images/village_jmu.jpg',
             duration: 2500,
             
             camera: {
