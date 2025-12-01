@@ -57,7 +57,7 @@ var config = {
             // CHAPTER 2: JMU Campus Overview
             id: 'jmu-campus',
             title: 'JMU Campus Overview',
-            description: 'James Madison University in Harrisonburg, Virginia. Three key locations emerge from student discussions.',
+            description: 'James Madison University in Harrisonburg, Virginia. Three key locations emerge from student discussions. The Quad, D-Hall, The Village',
             image: './images/campus_overview_jmu.jpg',
             duration: 2500,
             
@@ -75,7 +75,7 @@ var config = {
             // CHAPTER 3: JMU Location 1
             id: 'jmu-location-1',
             title: 'JMU Location 1: The Quad',
-            description: 'Add your description here. Include sentiment analysis findings, post count, and key themes.',
+            description: 'The main area on campus, part of the bluestone area. The "heart of campus".',
             image: './images/chapter_1_jmu_quad.jpg',
             duration: 2500,
             
@@ -103,7 +103,7 @@ var config = {
             // CHAPTER 4: JMU Location 2
             id: 'jmu-location-2',
             title: 'JMU Location 2: D-Hall',
-            description: 'Add your description here.',
+            description: 'One of the more common food options on campus. Located in the west of main campus and has multiple different food options inside, as well as food stations.',
             image: './images/chapter_2_dhall.jpg',
             duration: 2500,
             
@@ -129,7 +129,7 @@ var config = {
             // CHAPTER 5: JMU Location 3
             id: 'jmu-location-3',
             title: 'JMU Location 3: Village',
-            description: 'Add your description here.',
+            description: 'One of the more known housing options on campus. One of the oldest residental areas of JMU. Has 9 buildings and closer to east campus compared to Bluestone.',
             image: './images/chapter_3_village_jmu.jpg',
             duration: 2500,
             
@@ -155,7 +155,7 @@ var config = {
             // CHAPTER 6: ODU Campus Overview
             id: 'odu-campus',
             title: 'ODU Campus Overview',
-            description: 'Old Dominion University. Three key locations emerge from student discussions.',
+            description: 'Old Dominion University. Three key locations emerge from student discussions: Hampton Blvd, Powhatan Apartments, and Lamberts Point.',
             image: './images/campus_overview_odu.jpg',
             duration: 2500,
             
@@ -172,7 +172,7 @@ var config = {
             // CHAPTER 7: ODU Location 1
             id: 'odu-location-1',
             title: 'ODU Location 1:Hampton Blvd ',
-            description: 'Add your description here.',
+            description: 'Major area that runs through the campus. Student life is located here like dorms, food halls, academic buildings. Its the main community structure for ODU.  ',
             image: './images/chapter_4_hampton_blvd.jpg',
             duration: 2500,
             
@@ -184,11 +184,11 @@ var config = {
             
             location: {
                 name: 'ODU Location 1',
-                latitude: 35.9050,
-                longitude: -79.0470,
-                postCount: 60,
-                robertaScore: 0.30,
-                isJMU: false                 // UNC location
+                latitude: 36.8853,
+                longitude: -76.3059,
+                postCount: 20,
+                robertaScore: 0.1499,
+                isJMU: false                 // ODU location
             },
             
             showData: 'individual'
@@ -198,7 +198,7 @@ var config = {
             // CHAPTER 8: ODU Location 2
             id: 'odu-location-2',
             title: 'ODU Location 2: Powhatan Apartments ',
-            description: 'Add your description here.',
+            description: 'On campus apartment style housing at ODU, located on the west side of campus. Its near the river boardwalk, the sand-volleyball courts, barbecue grills, as well as the universities Sailing Center.',
             image: './images/chapter_5_powhatan_odu.jpg',
             duration: 2500,
             
@@ -224,7 +224,7 @@ var config = {
             // CHAPTER 9: ODU Location 3
             id: 'odu-location-3',
             title: 'ODU Location 3: Lamberts Point ',
-            description: 'Add your description here.',
+            description: 'Neighborhood in Norfolk, Virgina. Located near ODU and houses old homes, residential streets, and located near the river.',
             image: './images/chapter_6_lamberts_point.jpg',
             duration: 2500,
             
