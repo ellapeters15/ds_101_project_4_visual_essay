@@ -89,8 +89,8 @@ var config = {
             // Location data (creates the marker on map)
             location: {
                 name: 'JMU Location 1',      // Replace with location name from CSV
-                latitude: 38.4347,           // Must match camera coordinates
-                longitude: -78.8690,
+                latitude: 38.43989444662613,           // Must match camera coordinates
+                longitude: -78.874930472760010,
                 postCount: 50,               // Look up in your whitepaper visualizations
                 robertaScore: 0.25,          // Look up in your whitepaper visualizations
                 isJMU: true
@@ -115,8 +115,8 @@ var config = {
             
             location: {
                 name: 'JMU Location 2',
-                latitude: 38.4335,
-                longitude: -78.8715,
+                latitude: 38.437286411214814,
+                longitude: -78.87194619268928,
                 postCount: 75,
                 robertaScore: -0.15,
                 isJMU: true
@@ -141,8 +141,8 @@ var config = {
             
             location: {
                 name: 'JMU Location 3',
-                latitude: 38.4390,
-                longitude: -78.8620,
+                latitude: 38.436007797598776,
+                longitude: -78.86803654082671,
                 postCount: 100,
                 robertaScore: 0.55,
                 isJMU: true
@@ -184,8 +184,8 @@ var config = {
             
             location: {
                 name: 'ODU Location 1',
-                latitude: 36.8853,
-                longitude: -76.3059,
+                latitude: 36.9041808665476,
+                longitude: -76.30439597383146,
                 postCount: 20,
                 robertaScore: 0.1499,
                 isJMU: false                 // ODU location
@@ -210,8 +210,8 @@ var config = {
             
             location: {
                 name: 'ODU Location 2',
-                latitude: 35.9060,
-                longitude: -79.0480,
+                latitude: 36.886772905468376,
+                longitude: -76.31399039262554,
                 postCount: 85,
                 robertaScore: -0.10,
                 isJMU: false
@@ -236,8 +236,8 @@ var config = {
             
             location: {
                 name: 'ODU Location 3',
-                latitude: 35.9070,
-                longitude: -79.0490,
+                latitude: 36.88321035319649,
+                longitude: -76.30810572781452,
                 postCount: 95,
                 robertaScore: 0.40,
                 isJMU: false
