@@ -4,37 +4,37 @@
       "name": "Ella Peters",
       "major": "Media Arts and Design",
       "role": "Data Collection ",
-      "github": "https://github.com/ellapeters15",
+      "github": "https://github.com/ellapeters15"
     },
     {
       "name": "Alex WHite",
       "major": "Media Arts and Design",
       "role": "Website design, mapping",
-      "github": "https://github.com/alexwhitx",
+      "github": "https://github.com/alexwhitx"
     },
     {
       "name": "Elijah Harfst",
-      "major": "",
+      "major": "Media Arts and Design",
       "role": "Cordinates",
-      "github": "https://github.com/ElijahHarfst",
+      "github": "https://github.com/ElijahHarfst"
     },
     {
       "name": "Ashlynn Harding",
       "major": "Communications",
       "role": "Research & Documentation",
-      "github": "https://github.com/Ashlynn-H/Ashlnn-H",
-    }
+      "github": "https://github.com/Ashlynn-H/Ashlnn-H"
+    },
      {
       "name": "Calum O'brien",
       "major": "Media arts and design",
       "role": "Geoparsing",
-      "github": "https://github.com/cob225",
-    }
+      "github": "https://github.com/cob225"
+    },
     {
       "name": "Josh Krepps",
       "major": "Marketing",
       "role": "Research & Documentation",
-      "github": "https://github.com/JoshKrepps",
+      "github": "https://github.com/JoshKrepps"
     }
   ]
 }
